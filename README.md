@@ -31,8 +31,8 @@ this is code block example
 
 ## My hometown tansen palpa
 
+![alt text](<tanmsen palpa-1.jpg>)
 
- ![alt text](<../tanmsen palpa.jpg>)
 ### **Part 2: Linux Exercise**  
  
  ### codes which i had performed
